@@ -6,6 +6,7 @@
 
 
 #commands :-
+
 $ pkg install python -y
 
 $ pkg install git -y
