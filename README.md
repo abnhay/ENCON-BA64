@@ -1,6 +1,8 @@
 # ENCON-BA64
 قم بتشفير أدوات Python لجعلها أكثر تعقيدًا ومنع التعديل. نوع الترميز هو base64
 
+#commands 
+
 $pkg install python -y
 
 $pkg install git -y
