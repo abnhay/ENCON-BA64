@@ -6,14 +6,14 @@
 
 
 #commands :-
-$pkg install python -y
+$ pkg install python -y
 
-$pkg install git -y
+$ pkg install git -y
 
-$git clone https://github.com/abnhay/ENCON-BA64
+$ git clone https://github.com/abnhay/ENCON-BA64
 
-$cd ENCON-BA64
+$ cd ENCON-BA64
 
-$chmod +x ENCON-BA64.py
+$ chmod +x ENCON-BA64.py
 
-$python ENCON-BA64.py 
+$ python ENCON-BA64.py 
