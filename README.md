@@ -1,2 +1,14 @@
 # ENCON-BA64
-Encode Python tools to make them more complex and prevent modification. Encoding type is base64
+قم بتشفير أدوات Python لجعلها أكثر تعقيدًا ومنع التعديل. نوع الترميز هو base64
+
+$pkg install python -y
+
+$pkg install git -y
+
+$git clone https://github.com/abnhay/ENCON-BA64
+
+$cd ENCON-BA64
+
+$chmod +x ENCON-BA64.py
+
+$python ENCON-BA64.py 
